@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "T.I.L. Today I Learned"
 date:   2022-10-30 17:25:57 -0400
 categories: jekyll update
 ---
