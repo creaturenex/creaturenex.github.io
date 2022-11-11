@@ -13,7 +13,10 @@ Just some notes I want to capture while reading the book.
 
 One example was to look in the ruby codebase specifically `set.rb`
 This involved me reading more about Set vs Array
+
 [Ruby Guides - Set class](https://www.rubyguides.com/2018/08/ruby-set-class/)
+
+[Atomic Object - Set better than Array?](https://spin.atomicobject.com/2012/09/04/when-is-a-set-better-than-an-array-in-ruby/)
 
 Set.class Big Takeaways
 - only has unique objects
