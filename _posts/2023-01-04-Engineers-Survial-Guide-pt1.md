@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "2023 Goals and Resources"
+title:  "Engineers Survival Guide pt1"
 date:   2023-01-04 12:00:00 -0400
-categories: Mentorship
+categories: Engineers_Survival_Guide
 ---
-**Take Aways**
+**Take Away**
 - Chapter 1
   - Joined the [discord](https://discord.com/invite/x9ZGdryVJQ?o2)
   - I will check for activity as I have made it a goal to unsubscribe to slack/discord and news letters if I or the site is not active.
