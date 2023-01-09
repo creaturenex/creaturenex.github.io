@@ -7,7 +7,7 @@ categories: Engineers_Survival_Guide
 **Take Away**
 - Chapter 8
   - Turn your ideas into working prototypes as fast as possible!
-  - Note to self, dont spend time on making it look pretty, as long as it works first.
+  - Note to self, don't spend time on making it look pretty, as long as it works first.
 - Chapter 9
   - Visibility is everything! Remember Mohammed! what did he do?
   - Share status update everyday
@@ -18,4 +18,3 @@ categories: Engineers_Survival_Guide
   - Perform code reviews
   - in tech, consider posting questions and solution in a public forum so
     everyone can benefit and find information later!
-- Chapter 10
