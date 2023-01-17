@@ -41,5 +41,3 @@ categories: Engineers_Survival_Guide
     - take charge of an "area"
     - protect others who are not responsible for that area
     - update all involved parties
-- Chapter 18
-  - Unsavory fellows

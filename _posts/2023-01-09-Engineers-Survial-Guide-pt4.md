@@ -1,0 +1,61 @@
+---
+layout: post
+title:  "Engineers Survival Guide pt4"
+date:   2023-01-17 12:00:00 -0400
+categories: Engineers_Survival_Guide
+---
+**Take Away**
+- Chapter 18
+  - Dealing with Jerks
+    - Try your best to see things from their perspective.
+    - Change how you communicate with them ie if in person communication is hard use email etc
+    - Take a break if you get emotional
+    - Document your interaction for example via email to seek advice
+    - Pick project not involving them
+    - Ignore them
+    - Talk to your manager
+    - Change Team
+    - Change Company
+- Chapter 19 - Adaptability
+  - See things as an opportunity or challenge and not a problem!
+  - This allows us to become engaged and excited
+- CHapter 20 Tools and Patterns
+  - The ability to build tools allowed us to become the most advance creature
+  - allow us to perform better and faster
+  - research tools that can do my job!
+  - MASTER REGEX
+  - learn about tools before needing them
+- Chapter 21 Open Source Internally
+  - By treating your project like an open source project is an investment
+    - Colleague can see the cope of your project
+    - Issues you are working on
+    - Tests that support your project
+    - Advertize it so everyone can see the work you put in!
+    - More people will contribute
+    - have larger impact
+    - project grows faster
+    - Allows project to not depend on you
+- Chapter 22 Getting more headcount
+  - If you ask for more engineers and get the feedback that your project is not high priority
+    - Your project is high priority,but has little visibility
+    - Your project is low priority.
+      - consider your options ie does it need to get done? and by who if not you?
+    - Find someone who is excited about your project!
+  - More people will not solve the problem ie having a baby :)
+    - break project down into components
+    - identify keystone issue
+  - Management thinks you are not ready to lead
+    - Work style doesn't meet management expectations
+      - If your beliefs differ significantly, consider opportunities elsewhere
+    - Poor feedback
+      - improve on weak points and try again
+    - Great leader but not advertizing it!
+      - be confident in meetings
+      - take calculated risk and succeed
+- Chapter 23 Side Projects and Surroundings
+  - Know what other teams are working on ie take half the day to catch up with other team or attend their meetings if possible
+  - ie cross-functional meetings
+  - why you become contact person for your projects
+  - can align different project to complement each other if possible
+  - visibility as a person and for project
+  - build work relationship on helping each other
