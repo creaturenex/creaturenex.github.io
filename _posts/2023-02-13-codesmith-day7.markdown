@@ -49,7 +49,7 @@ Today we covered
     - Use eventListener
     - Does not overwrite an event/element
     - You can add many event listener to one element
-    -
+
   - jQuery
     - older technology that allowed users to DOM via events
   - React

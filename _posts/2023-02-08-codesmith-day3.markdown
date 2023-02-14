@@ -73,7 +73,6 @@ Today we covered
         - left child → right child → parent
       - inOrder
         - left child → parent → right child
-    -
 
 - Imposter Syndrome
   - Hit close to home especially as I struggled with the morning practice
