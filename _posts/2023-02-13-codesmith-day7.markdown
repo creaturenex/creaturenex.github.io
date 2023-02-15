@@ -14,7 +14,7 @@ Today we covered
   - Specifications lead by W3C
   - World Wide Web Consortium
   - see image below
-  - ![DOM model](/assets/DOM model.jpg)
+  - ![DOM model](/assets/DOMmodel.svg)
 - DOM Standards maintained by W3C
   - Core DOM
   - XML  DOM
