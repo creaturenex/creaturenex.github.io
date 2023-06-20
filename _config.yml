@@ -21,14 +21,14 @@
 title: OMRomero Codes
 email: oscar.m.romero87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Imposter Syndrome is just realizing that after you have learned so much,
-  there is still so much more that you don't know and that's ok! There is no way
-  you can know everything there is.
+  Imposter Syndrome is just realizing that after you have learned so much, there
+  is still so much more that you don't know and that's ok! There is no way you
+  can know everything there is.
 
 
   - RJ Robinson
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: creaturenex
 github_username: creaturenex
 
