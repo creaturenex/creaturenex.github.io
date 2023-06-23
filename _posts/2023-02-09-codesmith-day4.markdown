@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Day 4 of CodeSmith"
-date:   2023-02-19 08:00:00 -0500
+date:   2023-02-09 08:00:00 -0500
 categories: codesmith
 ---
 
