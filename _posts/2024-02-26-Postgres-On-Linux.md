@@ -16,3 +16,4 @@ categories: postgres
 - `kill -9 PID PROCESS_ID_RUNNING_5432`
 
 > **_NOTE_:** Find a way to prevent PG from initializing on startup
+>
