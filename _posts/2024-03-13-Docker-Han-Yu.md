@@ -25,7 +25,7 @@ I was interested in digging into...
       - watch
       - include
       - dry run
-    - Consider contributing to 
+    - Consider contributing to
       - [Awesome Compose](https://github.com/docker/awesome-compose)
       - This is good idea because it has examples for many different languages and frameworks
 
