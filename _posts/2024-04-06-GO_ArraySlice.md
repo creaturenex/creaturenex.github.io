@@ -26,3 +26,17 @@ Slice is an Array without a declared size
 - append()
   - allows you add slices together and return a new slice with a length of both arrays
   - its important because of strong typing in go
+
+Iterating through an Array or Slice using a for loop you can use a range
+ex: You can see in this example we do not use the index so we use an underscore but have to use the keyword `range`
+
+```go
+func Sum(numbers [5]int) int {
+	sum := 0
+	for _, number := range numbers {
+		sum += number
+	}
+	return sum
+}
+```
+
