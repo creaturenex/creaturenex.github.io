@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: OMRomero Codes
+title: Oscar M Romero Codes
 email: oscar.m.romero87@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Imposter Syndrome is just realizing that after you have learned so much, there
